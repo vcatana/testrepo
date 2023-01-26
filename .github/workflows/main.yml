@@ -1,0 +1,9 @@
+name: Empty action
+
+on:
+  pull_request:
+    branches:
+      - develop
+    types:
+      - closed
+      
